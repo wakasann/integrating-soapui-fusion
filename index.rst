@@ -26,9 +26,4 @@
    request-finditem-interface
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+:doc:`adding-custom-css`
