@@ -1,4 +1,4 @@
-.. _add-wsdl-to-soap-project:
+.. _SOAP項目 添加 WSDL:
 
 SOAP項目 添加 WSDL
 ======================
