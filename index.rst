@@ -24,6 +24,3 @@
    config-soap-project-wss
    add-wsdl-to-soap-project
    request-finditem-interface
-
-
-:doc:`adding-custom-css`
