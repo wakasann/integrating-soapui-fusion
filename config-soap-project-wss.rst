@@ -3,6 +3,10 @@
 配置SOAP WSS
 ==================
 
+因爲是請求 Oracle Fusion的WSDL, 請求對應的操作是需要在SOAP信封的頭部添加驗證信息。
+
+如果你使用的WSDL地址是不需要驗證的，可跳過本節，直接查看  :ref:`發送請求到對應的操作`.
+
 在已創建的 SOAP 項目名稱 **右鍵** ，然後選擇 **Show Project View** , 如下圖:
 
 .. image:: images/fs2019101600004h.jpg
