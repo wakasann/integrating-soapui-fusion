@@ -24,3 +24,4 @@
    config-soap-project-wss
    add-wsdl-to-soap-project
    request-finditem-interface
+   other-note
